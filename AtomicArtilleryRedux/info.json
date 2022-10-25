@@ -1,0 +1,11 @@
+{
+    "name": "AtomicArtilleryRedux",
+    "version": "1.0.0",
+    "title": "Atomic Artillery Redux",
+    "author": "warbaque",
+    "contact": "https://github.com/warbaque",
+    "homepage": "https://mods.factorio.com/mod/AtomicArtilleryRedux",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.0", "AtomicArtillery >= 0.2.3"],
+    "description": "Adds Artillery Shells with a nuclear payload, a super lategame nuke alternative"
+}
